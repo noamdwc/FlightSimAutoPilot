@@ -48,4 +48,4 @@ The language is based on the "Command" design pattern, with the following comman
       Make the main thread to sleep x milliseconds, when x is the input
 
 
-The interpreter also support assigning complex expression, like: ```var example = (3*3/3)-3```
+The interpreter also support assigning complex expression, like: ```var example = (3*3/3)-3 <= 0```
